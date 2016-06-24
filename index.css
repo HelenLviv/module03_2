@@ -1,0 +1,39 @@
+.main-block
+{
+width: 920; 		
+height:100%;   
+}
+.news-block1
+{
+float: left;
+color: black; 
+background-color: red;
+width: 33%; 		
+height:100%; 		
+padding: 5px;		
+border: 2px solid #889;	
+margin: 10px; 
+}
+.news-block2
+{
+float: left;
+color: black; 
+background-color: green;
+width: 33%; 		
+height:100%; 		
+padding: 5px;		
+border: 2px solid #889;	
+margin: 10px; 
+}
+.news-block3
+{
+float: left;
+color: black; 
+background-color: blue;
+width: 33%; 		
+height:100%; 		
+padding: 5px;		
+border: 2px solid #889;	
+margin: 10px; 
+}
+.clear {clear:both}
